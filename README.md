@@ -22,6 +22,8 @@ A sleek, responsive landing page built with **HTML**, **CSS**, and **Spline 3D**
 ├── gradient.png         # Background gradient image
 └── README.md            # This file
 
+---
+
 ## 🛠️ Getting Started
 1. Clone the repository
 git clone https://github.com/yourusername/3d-hover-landing-page.git
@@ -31,10 +33,11 @@ cd 3d-hover-landing-page
 
 3. Open index.html in your browser
 
-##🧰 Technologies Used
+---
+## 🧰 Technologies Used
 ├──HTML5
 ├──CSS3 (Flexbox, Media Queries, Animations)
 ├──Spline Viewer
 
-##📄 License
+## 📄 License
 This project is open-source
